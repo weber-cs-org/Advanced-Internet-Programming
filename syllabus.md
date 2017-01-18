@@ -21,6 +21,7 @@ On occasion, lectures may be given via Google Hangouts rather than in the
 physical classroom. These dates will be announced at least 1 week in advance.
 Students will need a computer, phone or tablet with a web cam to attend.
 
+<div style="page-break-after:always;"></div>
 ### Learning Outcomes
 Upon completion of the course, students should:
 
@@ -53,6 +54,7 @@ special assistance on homework or projects unless you are attending labs.
  7. Advanced CSS
  8. Dissecting HTTP
 
+<div style="page-break-after:always;"></div>
 ### Grading
 
 Component                  | Percentage
