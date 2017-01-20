@@ -1,0 +1,15 @@
+{
+  "name": "lecture1",
+  "private": true,
+  "version": "1.0.0",
+  "description": "NPM and Webpack Examples",
+  "author": "Chad Killingsworth <chadkillingsworth@missouristate.edu>",
+  "license": "Apache-2.0",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "devDependencies": {
+    "webpack": "^2.2.0",
+    "webpack-dev-server": "^2.2.0"
+  }
+}
