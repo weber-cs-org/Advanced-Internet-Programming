@@ -10,6 +10,11 @@ Spring 2017
  * [npm package.json](https://docs.npmjs.com/files/package.json)
  * [NodeJS modules](https://nodejs.org/api/modules.html)
 
+### Demos
+ * [Dom Events](http://people.missouristate.edu/chadkillingsworth/csc590/javascript/events.html)
+ * [Promises](http://people.missouristate.edu/chadkillingsworth/csc590/javascript/promises.htm)
+ * [Web Components](http://codepen.io/chadkillingsworth/pen/MJPgPb)
+
 ### Git and GitHub
  * [Git GUI Client - SourceTree](https://www.atlassian.com/software/sourcetree/overview/)
  * [Fundamentals of Forking](https://guides.github.com/activities/forking/)
