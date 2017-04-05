@@ -4,11 +4,14 @@ Spring 2017
 ## Overview
  * [Course Syllabus](syllabus.md)
  * [Lectures](https://www.youtube.com/playlist?list=PLySiLhgfbmzbY8ce5VLDbXzRAsHAsf2Yk)
+ * [Major Project](project.md)
 
 ### Reference Material
  * [EcmaScript 2015 (ES6)](https://github.com/nzakas/understandinges6)
  * [npm package.json](https://docs.npmjs.com/files/package.json)
  * [NodeJS modules](https://nodejs.org/api/modules.html)
+ * [HTML as a Semantic Language](HTML_as_a_Semantic_Language.md)
+ * [Enriching Markup](Enriching_Markup.md)
 
 ### Demos
  * [Dom Events](http://people.missouristate.edu/chadkillingsworth/csc590/javascript/events.html)
