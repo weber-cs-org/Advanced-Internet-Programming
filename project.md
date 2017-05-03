@@ -1,5 +1,5 @@
 # Major Class Projects
-**Final due date: May 5, 2017**
+**Final due date: May 12, 2017**
 
 Your class project will be written in teams of 3-5 developers. Your project must:
 
